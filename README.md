@@ -1,11 +1,10 @@
 <h1 align="center">👋yes its me: Cipher</h1>
+<h3 align="center">Core Banking Application Developer</h3>
 <h3 align="center">Cyber-security enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/jamesgichiri" target="blank"><img src="https://img.shields.io/twitter/follow/jamesgichiri?logo=twitter&style=for-the-badge" alt="jamesgichiri" /></a> </p>
 
 - 🔭 I’m currently working on **low level C programming(recreating core libraries)**
-
-- 🌱 I’m currently learning **Full Stack Engineer at ALX**
 
 - 📫 How to reach me **jamogeen@gmail.com**
 
